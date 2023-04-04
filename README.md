@@ -1,6 +1,6 @@
 # tema_pt_cursu_2
 
-CUrrency converter pentru cursul din 5 apr 2023
+Currency converter pentru cursul din 5 apr 2023
 
 ## Getting Started
 
